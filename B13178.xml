@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring those of Scotland, who have entred, or shall enter this kingdom in a vvarlike manner, and their adherents, to be rebels and traitours to His Majestie.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13178</idno>
+            <idno type="STC">STC 9166</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[49]</idno>
+            <idno type="STC">Interim Tract Supplement Guide B.J.5[10]</idno>
+            <idno type="STC">ESTC S123860</idno>
+            <idno type="EEBO-CITATION">99892684</idno>
+            <idno type="PROQUEST">ocm99892684</idno>
+            <idno type="VID">188203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188203)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[49]; C10:3[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring those of Scotland, who have entred, or shall enter this kingdom in a vvarlike manner, and their adherents, to be rebels and traitours to His Majestie.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majesty: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1640]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: VVhitehall, the twentieth day of August, in the sixteenth yeer of His Majesties reign.</note>
+                  <note>Arms 24; Steele notation: time duced 2) Provisions, and.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Copy 21.h.1[49] is a fragment. Sheet 1 only of STC 9166.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188203:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation declaring thoſe of Scotland, who have entred, or ſhall enter this Kingdom in a VVarlike manner, and their Adherents, to be Rebels and Traitours to His MAJESTIE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Kings moſt Excellent Majeſtie, for a long time</hi> now together, by all wayes of Mildneſſe and Clemencie (beyond that of Soveraign Princes) hath endeavoured to appeaſe the diſorders and Rebellious courſes and proceedings of His Sub<g ref="char:EOLhyphen"/>jects of <hi>Scotland,</hi> who upon pretences of Religion have ſought to ſhake off His Regall Power and Government: His Majeſtie now findeth that His Princely Lenity towards them hath pro<g ref="char:EOLhyphen"/>duced no better effects then their encouragements ſtill to perſiſt in their diſloyalties and Rebellions againſt Him: And in theſe their Inſolencies they have now ſo far proceeded as to take up Arms, to gather Forces, and in a Hoſtile manner have entred and invaded this Kingdom of <hi>England.</hi> And as for their pretences of enjoying their Religion and Liberties, His Majeſtie hath already often aſſured them of His cleer Inten<g ref="char:EOLhyphen"/>tions and Reſolutions therein. Wherefore His Majeſtie out of His continued Princely and tender care of that His native Kingdom, hath thought fit (by the advice of His Privie Councell) once more to make this publike Declaration to the world, that He hath left no wayes (beſeeming a Prince) unattempted, whereby to reclaim and reduce them to that du<g ref="char:EOLhyphen"/>tie and obedience which Loyall Subjects do owe to their lawfull Soveraign.</p>
+            <p>And therefore His Majeſtie doth hereby further declare, That all thoſe of <hi>Scotland</hi> who have already entred, or hereafter ſhall preſume to enter, (in an Hoſtile or Warlike manner) into any part of this His Kingdom of <hi>England,</hi> and their Adherents and Aſſiſtants and parts of the Kingdom without any conſent, nay without all knowledge of Vs, Our Com<g ref="char:EOLhyphen"/>miſſioner, or Councell, and directly contrary to many ſtanding Laws at this day in force in that Kingdom, and yet pretend violation of their Laws, as one of the main cauſes of their brain-ſick diſtemners.</p>
+            <pb facs="tcp:188203:2"/>
+            <pb facs="tcp:188203:2"/>
+            <p> Here therefore We take God and the world to witneſſe, We hold Our ſelf forced and con<g ref="char:EOLhyphen"/>ſtrained to Arm, not onely to reclaim them, and to ſet our kingly authority right again in that Our ancient and native Kingdom, but alſo for the ſafety of this Kingdom, Our loyall Subjects in it, with their wives, children, and goods, as well as Our own, againſt the rage and fury of theſe men and their Covenant. And this We think fit to let you further know, that We hope in time to make the beſt of them ſee that We will endure no ſuch Co<g ref="char:EOLhyphen"/>venant and Band in Our Kingdom, to which We ſhall not conſent: So the queſtion is not now, whether a Service Book to be received or not; nor whether Epiſcopall govern<g ref="char:EOLhyphen"/>ment ſhall be continued, or Preſbyteriall admitted, but whether We are their King or not: For though in ſome of their Libels they give Vs good words, and ſpeak Vs fair for their own ends, eſpecially in their laſt, Printed at <hi>Edenburgh,</hi> February <hi>quarto 1639.</hi> yet ſome of them refuſe both the Oath of Allegiance and Supremacy, and publikely maintain that they are not obliged to take the ſame. Now how can We think theſe men are dutifull and loyall in their hearts, that broach ſuch dangerous Opinions, or Religiouſly minded that teach ſuch Rebellious Doctrine, and ſo contrary to all which Proteſtant Divines teach to<g ref="char:EOLhyphen"/>wards the King and the Civill Magiſtrate; Nay, they have infected divers of their Coun<g ref="char:EOLhyphen"/>trey-men (which are come into other parts) with the ſame Venome; for three <hi>Scots-men</hi> taken in <hi>Wales,</hi> are at this day Impriſoned for direct denyall of Our Supremacie and their Al<g ref="char:EOLhyphen"/>legiance, ſaying, They cannot take thoſe Oathes, becauſe they have ſworn to the Covenant. But though We have been thus milde towards them, and continued ſo long, yet We would not have any of them, or any of Our other Subjects think, that We can or will permit Epiſcopall Government, eſtabliſhed by many Acts of Parliament in that Our Kingdom, to be aboliſhed, ſeeing it is known to the whole Chriſtian world, that the ſame is moſt Chriſtian in it ſelf, and moſt Peaceable for the Civill State, and moſt conſonant to Monarchi<g ref="char:EOLhyphen"/>call Government.</p>
+            <p>And We would have Our Subjects of that Kingdome conſider, what will become of the third Eſtate there in Parliament, if Epiſcopacie ſhould be abrogated.</p>
+            <p>And further, We think fit to Declare unto you, and to the Chriſtian World, That by Our Intention of introducing the Service-Book into that Kingdome, We had not the leaſt thought of Innovation of Religion in this or that, but meerly to have a Conformity with that Worſhip of God which is obſerved within both Our other Kingdomes, though ill minded men have wreſted ſome things in it to a ſiniſter ſence.</p>
+            <p>We further give you to underſtand, that there is a large Declaration coming forth, con<g ref="char:EOLhyphen"/>taining all the particular paſſages which have occurred in this buſineſſe from the very be<g ref="char:EOLhyphen"/>ginning, atteſted with their own foul Acts, to diſanull and ſhame their fair, but falſe words. But becauſe this cannot ſo ſoon be made ready, We hold it moſt expedient to let this ſhort Declaration forerun it, that Our loyall Subjects here and elſewhere, may not be infected with their falſe, wicked, ſpecious, but moſt Seditious Informations. For example ſake in their laſt Pamphlet (beſides divers other falſe, baſe, and fawning Paſſages) there are theſe ſcandalous and moſt notorious untruths: As firſt, they ſay, That We have commit<g ref="char:EOLhyphen"/>ted the Arms Wee now take, and the Armies Wee now raiſe, into the hands of profeſſed Papiſts, which is not more diſhonourable to Our ſelf, and the noble Perſons intruſted by Vs, then odiouſly and notoriouſly falſe. Again they ſay, That ſome of power in the Hierarchie of <hi>England,</hi> have been the cauſe of Our taking Arms to Invade Our native Kingdom, and of medling with their Religion; whereas it is moſt certain, that no one of them have done any thing therein, but by Our own Princely direction and com<g ref="char:EOLhyphen"/>mand. And for Arms, it is notoriouſly known to all Our Councell then preſent, That their Counſels were for Peace, and have been the perſwaders (aſmuch as in them lay) of the undeſerved Moderation wherewith We have hitherto proceeded towards ſo great Offenders.</p>
+            <pb facs="tcp:188203:3"/>
+            <pb facs="tcp:188203:3"/>
+            <p> And further they ſay, That they intend no Act of Hoſtility againſt <hi>England,</hi> unleſſe they ſhall be neceſſitated in their own defence. We would fain know, defence of what? Is it of diſobedience? Defence againſt whom? Is it not againſt Vs their True and Law<g ref="char:EOLhyphen"/>full Soveraign? If they will defend againſt Vs, it ought to be by Law, and not by Arms: That defence We ſhall never deny them; This by Arms We ſhall never permit them. Now Our Laws which they ſeem ſo much to value, are in a manner oppreſt by them, in ſo much that Our Iudges are ſo awed, as that they dare hardly proceed according to Law.</p>
+            <p>With theſe, and the like mutinous Libels, We deſire Our good Subjects ſhould not be infected, but that all of them might know the preſent neceſſity We have to Arm Our Self, which is for no other end, ſave onely for the ſafety and ſecurity of this Our King<g ref="char:EOLhyphen"/>dom, the reeſtabliſhment of Our Authorities in that, and the ſuppreſſing of ſuch as have miſled and abuſed Our Subjects there, and would (if not prevented) do the like here; but is no way to inforce any Innovation of Religion eſtabliſhed in that Kingdom, or any wayes to infringe the Laws thereof, or any of their Liberties whatſoever, which are according to Law.</p>
+            <p>Theſe are therefore to Will and Command all Our loving Subjects of this Our King<g ref="char:EOLhyphen"/>dom, That they receive no more of their ſeditious Pamphlets ſent from <hi>Scotland,</hi> or any other place concerning thoſe affairs, which can have no other uſe or influence then to draw the hearts of Our loyall People to the like rebellious courſes. And that ſuch of Our Sub<g ref="char:EOLhyphen"/>jects here, as have already received any of theſe Rebellious Pamphlets, do preſently deli<g ref="char:EOLhyphen"/>ver them to the next Iuſtice of Peace, that he may ſend them to one of Our Secretaries, as both they and the Iuſtices of Peace will anſwer it at their uttermoſt perils.</p>
+            <p>And Our further Will and pleaſure is, That this Our Proclamation and Declaration be read in time of Divine Service in every Church within the Kingdom, That all Our People to the meaneſt, may ſee the notorious carriages of theſe men, and likewiſe the Iuſtice and Mercy of all Our proceedings.</p>
+            <closer>
+               <dateline>Given at Our Court at Whitehall <date>the ſeven and twentieth day of February, in the fourteenth yeer of Our Reign of England, Scotland, France, and Ireland.</date>
+               </dateline>
+               <lb/> 
+               <g ref="char:leaf">❧</g> 
+               <hi>God ſave the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſsignes of JOHN BILL. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
